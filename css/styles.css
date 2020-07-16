@@ -48,14 +48,11 @@ body {
 .pictureTitle {
   width: 60%;
   transform: rotate(25deg);
-  position: absolute;
-  right: 30%;
 }
 /* features */
 #features {
   padding: 7% 10%;
   background-color: white;
-  position: relative;
 }
 .feature {
   text-align: center;
